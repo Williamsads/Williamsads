@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Olá, eu sou Williams! 👋<br>Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) 🎓, onde estou aprimorando minhas habilidades em tecnologia.<br><br>Possuo conhecimentos nas seguintes linguagens de programação:<br><br>Java (com foco em Spring Boot) ☕<br>Python 🐍<br>JavaScript 📜<br>SQL 💾<br>NoSQL 🗄️<br>Além disso, tenho experiência com ferramentas no-code, como Maker ⚙️.<br><br>Estou sempre em busca de oportunidades para expandir meu conhecimento e me desenvolver na área! 🚀
 
 
