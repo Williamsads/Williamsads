@@ -15,8 +15,6 @@ Olá, eu sou Williams! 👋<br>Atualmente, curso Análise e Desenvolvimento de S
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Williamsads&limit=5&theme=solarized-dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Williamsads&icon=1&color=1)](https://visitcount.itsvg.in)
