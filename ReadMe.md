@@ -13,10 +13,6 @@ Olá, eu sou Williams! 👋<br>Atualmente, curso Análise e Desenvolvimento de S
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Williamsads&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Williamsads&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Williamsads&icon=1&color=1)](https://visitcount.itsvg.in)
 
